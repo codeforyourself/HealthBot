@@ -30,9 +30,6 @@ namespace DoctorNearMe.Dialogs
                     case "greeting":
                         returnMessage = "hello!";
                         break;
-                    case "StockPrice2":
-                        //StockRateString = await GetStock(StLUIS.entities[0].entity);
-                        break;
                     default:
                         returnMessage = "Sorry, I am not getting you...";
                         break;
