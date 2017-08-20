@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Find Doctor Near Me")]
+[assembly: AssemblyTitle("Dora.Bot")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DoctorNearMe")]
+[assembly: AssemblyProduct("Dora.Bot")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f416d54e-5680-4314-aa18-dd465f5c4dbf")]
+[assembly: Guid("b8e66f16-0d3e-4c43-90b5-7acd46b245f2")]
 
 // Version information for an assembly consists of the following four values:
 //
